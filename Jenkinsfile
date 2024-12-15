@@ -7,6 +7,10 @@ pipeline{
         DOCKER_HUB = "vamsi5563/employee-service"
     }
 
+    tools {
+        maven : "M3"
+    }
+
     stages {
         stage('Checkout') {
             steps {
