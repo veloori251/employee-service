@@ -1,0 +1,10 @@
+INSERT INTO employee_tbl (id, name, designation, salary) VALUES (1,"Vamsi","Developer",25000.00);
+INSERT INTO employee_tbl (id, name, designation, salary) VALUES (2,"Krishna","Engineer",35000.00);
+INSERT INTO employee_tbl (id, name, designation, salary) VALUES (3,"Veloori","Manager",45000.00);
+INSERT INTO employee_tbl (id, name, designation, salary) VALUES (4,"Sai","Devops",55000.00);
+INSERT INTO employee_tbl (id, name, designation, salary) VALUES (5,"Bhargavi","Senior Analyst",65000.00);
+INSERT INTO employee_tbl (id, name, designation, salary) VALUES (6,"Vidya","Consultant",75000.00);
+INSERT INTO employee_tbl (id, name, designation, salary) VALUES (7,"Supriya","Ass. System Engineer",77000.00);
+INSERT INTO employee_tbl (id, name, designation, salary) VALUES (8,"Bavajan","Technology Analyst",85000.00);
+INSERT INTO employee_tbl (id, name, designation, salary) VALUES (9,"Charan","IT Analyst",95000.00);
+INSERT INTO employee_tbl (id, name, designation, salary) VALUES (10,"Nagamani","Director",105000.00);
